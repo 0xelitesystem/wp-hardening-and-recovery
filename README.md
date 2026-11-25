@@ -1,4 +1,4 @@
-# WordPress Hardening Checklist
+# WordPress Hardening and Recovery
 
 A practical reference for making a WordPress site harder to break into and easier to recover. It covers accounts and logins, updates and plugins, file and server settings, database and backups, and transport and headers, ending in a single checklist you can run on any site.
 
